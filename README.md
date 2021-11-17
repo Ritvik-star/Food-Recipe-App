@@ -1,5 +1,3 @@
-# Food-Recipe-App
-
 # Hi, I'm Ritvik! 👋
 
   

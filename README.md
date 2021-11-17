@@ -11,6 +11,7 @@ Java, Javascript, React, HTML, CSS...
   # Food-Recipe-App
 
 This is dynamic food recipe web appilcation by which user can search thier meal's recipe and can get instructions and can also watch video to cook😊.
+Using public API to fetch the meal and recipe data https://www.themealdb.com/api.php
 
 
 ## Features
